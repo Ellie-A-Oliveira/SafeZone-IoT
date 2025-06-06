@@ -103,3 +103,13 @@ Nesta etapa IoT, utilizamos sensores simulados no **Wokwi** para coletar dados a
 - [x] Sensor DHT22
 - [x] Sensor MPU6050
 - [x] WiFi + HTTPClient
+
+---
+
+## ✅ Status
+
+✅ Projeto funcional no Wokwi  
+✅ Dados chegando corretamente no ThingSpeak  
+✅ LED reagindo à temperatura  
+
+---
