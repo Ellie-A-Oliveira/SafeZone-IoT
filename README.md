@@ -32,7 +32,7 @@ Nesta etapa IoT, utilizamos sensores simulados no **Wokwi** para coletar dados a
 ## 🚀 Como rodar no Wokwi
 
 1. Acesse o Wokwi: [https://wokwi.com](https://wokwi.com)
-2. Clone ou importe o projeto com o circuito configurado (incluindo DHT22, MPU6050 e LED)
+2. Clone ou importe o projeto com o circuito configurado (incluindo DHT22, MPU6050 e LED): [Project SafeZone Sensors Template - Wokwi](https://wokwi.com/projects/433054929004280833)
 3. Substitua a linha no código:
 
    `const String writeAPIKey = "YOUR_THINGSPEAK_WRITE_API_KEY";`
