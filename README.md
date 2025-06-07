@@ -3,6 +3,12 @@
 Este projeto é parte da iniciativa **SafeZone**, uma plataforma de apoio em situações de emergência.  
 Nesta etapa IoT, utilizamos sensores simulados no **Wokwi** para coletar dados ambientais e enviar a um canal **ThingSpeak** em tempo real.
 
+## 🌍 Proposta Geral
+
+**SafeZone** é uma solução integrada baseada em dados para **identificação de áreas de risco**, **comunicação de emergência**, **alertas preventivos**, **gerenciamento de vítimas**, e **resposta coordenada** a eventos extremos.
+
+O objetivo da implementação de IoT é demonstrar um protótipo onde é possível instalar de forma rápida e com baixo custo um sistema de monitoramento em áreas de risco para habilitar o alertamento preventivo e comunicar com clareza e precisão eventos extremos.
+
 ---
 
 ## 🔧 Componentes utilizados
